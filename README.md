@@ -1,1 +1,1 @@
-# Game-of-Stones-algo
+# Game-of-Stones-algo In this game, players can remove 1, 2, or 3 stones on their turn. The positions where n % 7 == 0 or n % 7 == 1 are losing positions for the first player, so if n falls in those cases, the second player can always win; otherwise, the first player can force a win.
